@@ -1,0 +1,6 @@
+framework module UncaughtException {
+  umbrella header "UncaughtException.h"
+
+  export *
+  module * { export * }
+}
